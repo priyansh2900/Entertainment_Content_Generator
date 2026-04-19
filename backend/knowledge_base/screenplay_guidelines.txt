@@ -1,0 +1,6 @@
+A professional script scene should use scene headings like INT. or EXT.
+Scene descriptions should be concise and visual.
+Character names are usually capitalized before dialogue.
+Dialogue should reflect character intent and emotional tone.
+Avoid excessive narration and focus on actions that can be filmed.
+A scene should usually have a clear setting, conflict, and progression.
